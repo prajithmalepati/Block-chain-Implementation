@@ -26,19 +26,19 @@ This Java program demonstrates the basic concepts of a blockchain:
    ```bash
    git clone https://github.com/your-username/java-blockchain.git
 Open the project in your preferred Java IDE or compile and run the program using the command line.
-Usage
+# Usage
 Run the program.
 Choose options from the menu:
 1: Add a block to the blockchain with user input data.
 2: Print the contents of the most recent block.
 3: Print the contents of the entire blockchain.
 4: Exit the program.
-Technologies Used
+# Technologies Used
 Java: Programming language used for the implementation.
 SHA-512: Hashing algorithm used to secure block data.
 LocalDateTime and DateTimeFormatter: Java classes for managing timestamps.
-Contributing
+# Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or a pull request in this repository.
 
-License
+# License
 This project is licensed under the MIT License.
